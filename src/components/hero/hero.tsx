@@ -13,7 +13,6 @@ export interface HeroProps {
 export const Hero = ({ className }: HeroProps) => {
     return (
         <section className={classNames(styles.root, className)}>
-            className={classNames(styles.root, className)}
             <My_Carousel />
         </section>
     );
