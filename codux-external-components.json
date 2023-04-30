@@ -11,7 +11,12 @@
         "filePath": "antd",
         "exportName": "Button",
         "name": "Button"
-      }
+      },
+      {
+        "filePath": "antd",
+        "exportName": "Carousel",
+        "name": "Carousel"
+      },
       {
         "filePath": "antd",
         "exportName": "Carousel",

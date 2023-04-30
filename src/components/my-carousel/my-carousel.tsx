@@ -20,7 +20,7 @@ export const My_Carousel: React.FC = () => {
 
     return (
         <div className={TopSection_module.root}>
-            <Carousel>
+            <Carousel infinite>
                 <div>
                     <h3 style={contentStyle}>1</h3>
                 </div>
