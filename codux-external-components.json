@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ant Components",
+    "components": [
+      {
+        "filePath": "antd",
+        "exportName": "ProgressBar",
+        "name": "Progress Bar"
+      },
+      {
+        "filePath": "antd",
+        "exportName": "Button",
+        "name": "Button"
+      }
+      {
+        "filePath": "antd",
+        "exportName": "Carousel",
+        "name": "Carousel"
+      }
+    ]
+  }
+]
