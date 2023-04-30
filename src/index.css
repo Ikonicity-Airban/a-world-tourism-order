@@ -16,6 +16,12 @@
   --primary: #551111;
   --bg1: #ededed;
 }
+*,
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
 a {
   font-weight: 500;
