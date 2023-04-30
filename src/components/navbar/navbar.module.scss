@@ -5,7 +5,6 @@
   margin-left: 0rem;
   justify-content: space-between;
   align-items: center;
-  background-color: var(--bg1);
 }
 .logo__container {
   display: flex;
@@ -24,12 +23,11 @@
   min-width: auto;
   padding: 0rem;
   align-items: center;
-  margin: 10px;
   color: var(--primary);
   border: 0px solid black;
   border-radius: 20px;
-  height: 10vh;
 }
+
 .navbar__nav {
   display: flex;
   align-items: center;

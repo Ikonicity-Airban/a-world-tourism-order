@@ -14,7 +14,7 @@ export interface LogoProps {
 export const Logo = ({ className, src }: LogoProps) => {
     return (
         <div className={classNames(styles.root, className)}>
-            <img src={src} className={classNames(styles.img, styles.logo__img)} />
+            <img src={src} className={classNames(styles.img, styles.logo__img)}/>
         </div>
     );
 };
