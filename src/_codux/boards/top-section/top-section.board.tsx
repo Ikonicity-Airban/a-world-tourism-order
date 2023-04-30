@@ -3,5 +3,9 @@ import { TopSection } from '../../../components/top-section/top-section';
 
 export default createBoard({
     name: 'TopSection',
-    Board: () => <TopSection />
+    Board: () => <TopSection />,
+    environmentProps: {
+        windowWidth: 1024,
+        windowHeight: 768,
+    },
 });

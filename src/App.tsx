@@ -5,12 +5,12 @@ import { ReactComponent as ViteLogo } from './assets/vite.svg';
 import { ReactComponent as TypescriptLogo } from './assets/typescript.svg';
 import { ReactComponent as ScssLogo } from './assets/scss.svg';
 import styles from './App.module.scss';
-import { Navbar } from './components/navbar/navbar';
+import { TopSection } from './components/top-section/top-section';
 
 function App() {
     return (
         <div className={styles.App}>
-            <Navbar />
+            <TopSection />
         </div>
     );
 }
